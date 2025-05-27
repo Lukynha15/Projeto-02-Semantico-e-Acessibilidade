@@ -7,6 +7,7 @@ About the project
 
 Pages
 📄 Single Page (index.html)
+
 The layout includes:
 
 A navigation bar with logo and links (Home, Sobre, Treinar)
@@ -45,5 +46,5 @@ Clone the repository (if hosted on GitHub):
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/treine-me.git
+git clone https://github.com/Lukynha15/Projeto-02-Semantico-e-Acessibilidade.git
 Then open index.html in your browser.
