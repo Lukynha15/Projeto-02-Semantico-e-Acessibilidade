@@ -1,4 +1,5 @@
 Welcome to Treine.me
+
 👤 Hi! I'm Lucas and this is a static webpage project inspired by modern landing page designs.
 
 About the project
